@@ -18,14 +18,3 @@ O programa apresenta um menu principal com as seguintes opções:
 2.  **Ordenar dados**: Lê o arquivo `dados.txt`, permite escolher um dos 5 algoritmos de ordenação, **exibe no console o vetor passo a passo** (mostrando como o algoritmo está trabalhando) e salva o resultado final no arquivo `ordenado.txt`.
 3.  **Alterar e Reordenar**: Lê o arquivo `ordenado.txt`, permite que o usuário altere um valor em uma posição específica, escolha um algoritmo de ordenação, visualize o novo passo a passo e salve o resultado atualizado.
 4.  **Sair**: Encerra a execução do programa.
-
----
-
-## Como compilar e executar
-
-Para compilar e rodar o projeto, você precisará de um compilador C (como o `gcc`) instalado em sua máquina.
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/lab-ordenacao-arquivos-c.git
-   cd lab-ordenacao-arquivos-c
